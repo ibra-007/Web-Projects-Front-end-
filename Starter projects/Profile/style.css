@@ -1,0 +1,74 @@
+
+body{
+margin: auto;
+    background-color: rgba(201, 201, 201, 0.704);
+}
+#img{
+    margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 75%;
+object-fit:cover;
+}
+#list{
+display: flex;
+justify-content: space-around;
+font-size: 40px;
+font-style: italic;
+
+}
+
+.inList{
+background-color: rgb(156, 21, 252);
+border-radius: 15px;
+text-align: justify;
+}
+.inList:hover{
+opacity: 0.09;
+  transition: 0.22s;
+color: rgb(0, 0, 0);
+
+}
+#footer{
+display: flex;
+justify-content: center;
+font-size: 25px;
+align-items: space-around;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+#div{
+
+  width: auto;           
+  margin: 0 auto;           
+  text-align: center;       
+  padding-top: 150px;       
+font-size: larger;
+color: blue ;
+font-style: oblique;
+
+}
+
+#btn{
+margin-top: 50px;
+text-align: center;
+font-size: large;
+color: rgb(0, 0, 0);
+background-color: rgb(193, 180, 205);
+
+}
+
+#box{
+  width: auto;           
+  margin: 0 auto;           
+  text-align: center;       
+  padding-top: 150px;       
+font-size: larger;
+color: rgb(152, 66, 66) ;
+font-style: oblique;
+}

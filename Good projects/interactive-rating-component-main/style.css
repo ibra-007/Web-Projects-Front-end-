@@ -1,0 +1,114 @@
+body{
+
+background-color: black;
+
+
+}
+
+
+
+
+
+.container{
+    margin-top: 9%;
+    padding-top: 35px;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    flex-direction: column;
+    
+    width: 350px;
+    height: 350px;
+border-radius: 25px;
+background-color: hsl(213, 19%, 18%);
+
+}
+
+
+#head{
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: white;
+padding-right:  75px;
+margin-bottom: 0px;
+}
+
+
+p{
+    color: hsl(217, 12%, 63%);
+    
+}
+
+.grade{
+    font-size: 50px;
+    padding-top: 35px;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 20px;
+}
+
+
+
+.custom-button {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 40px;
+    height: 40px;
+    background-color: hsl(217, 12%, 63%);
+    border: none; 
+    border-radius: 50px;
+    cursor: pointer;
+     
+}
+
+#sub{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: large;
+width: 300px;
+border-radius: 25px;
+height: 40px;
+background-color: hsl(25, 97%, 53%);
+margin-bottom: 25px;
+
+    display: flex;
+    margin-top: 25px;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    cursor: pointer;
+    }
+
+.custom-button:hover {
+    background-color: coral;
+    
+}
+
+#sub:hover{
+    background-color: white;
+}
+#close{
+    width: 40px;
+    height: 40px;
+    border-radius: 25px;
+    margin-right: 280px;
+
+
+background-color: hsl(216, 2%, 41%);
+border: none; 
+border-radius: 50px;
+}
+
+
+#svg{
+    display: flex;
+    justify-items: center;
+    align-content: center;
+
+
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 5px;
+    }
+    
+ 

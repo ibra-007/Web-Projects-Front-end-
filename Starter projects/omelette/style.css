@@ -1,0 +1,56 @@
+
+
+h3{
+
+    color: brown;
+}
+
+
+section{
+background-color: rgba(172, 76, 95, 0.129);
+font-family: hsl(14, 45%, 36%);
+}
+
+
+
+h2{
+
+    color: brown;
+}
+
+
+ol li::marker {
+    color:brown;
+}
+
+
+.centre {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
+table{
+    border-collapse: collapse;
+}
+.firstLine td{
+    border-bottom: 2px solid rgb(71, 71, 71);
+}
+
+/*
+
+body {
+
+
+table , tr ,th, td, caption {
+
+border: 1px; solid #eee;
+font-family: 'Courier New', Courier, monospace;
+border-collapse: collapse;
+padding: 0.5rem;
+
+}
+
+}

@@ -1,0 +1,108 @@
+#box1{
+
+height: 500px;
+width: 650px;
+color: aqua;
+background-color: rgb(255, 255, 255);
+border-radius: 10px;
+position:absolute;
+top: 125px;
+left: 500px;
+}
+
+
+
+#ph1{
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    position: relative;
+    top: 116px;
+    left: 491px;
+}
+
+
+h1{
+    position: relative;
+margin-left:855px;
+margin-top: -300px;
+
+}
+
+#p1{
+    position: relative;
+    margin-left:855px;
+    margin-top: -180px;
+    color: hsl(228, 12%, 48%);
+    
+}
+
+#p2{
+
+position: relative;
+margin-left:855px;
+    margin-top: 180px;
+}
+
+#h11{
+
+color: green;
+position: relative;
+margin-left:855px;
+    margin-top: 50px;
+
+}
+
+
+body{
+
+    background-color: antiquewhite;
+}
+
+#button{
+    position: relative;
+    width: 250px;
+    height: 55px;
+background-color: green;
+border-radius: 10px;
+margin-left: 855px;
+
+}
+#f{
+    position: absolute;
+    color: aliceblue;
+margin-left: 925px;
+font-size: x-large;
+text-align: center;
+margin-top: -40px;
+}
+#seci{
+
+width: 25px;
+height: 25px;
+position: absolute;
+    color: aliceblue;
+margin-left: 885px;
+font-size: x-large;
+text-align: center;
+margin-top: -40px;
+
+}
+
+#disc{
+    position: relative;
+    color: grey;
+    text-decoration: line-through;
+    size: 20px;
+margin-left: 1000px;
+margin-top: -104px;
+}
+
+
+@media (orientation: portrait) {
+
+    #button {
+
+        background: purple;
+    }
+
+}
